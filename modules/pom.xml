@@ -3,15 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.ozoneplatform.owf</groupId>
-        <artifactId>owf</artifactId>
+        <groupId>org.ozoneplatform.metrics</groupId>
+        <artifactId>metrics</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>org.ozoneplatform.owf</groupId>
+    <groupId>org.ozoneplatform.metrics</groupId>
     <artifactId>modules</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>modules</name>
 </project>
