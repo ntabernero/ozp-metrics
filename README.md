@@ -1,4 +1,4 @@
-Metrics
+Metrics [![Build Status](https://travis-ci.org/ntabernero/ozp-metrics.png)](https://travis-ci.org/ntabernero/ozp-metrics)
 ======================
 
 This is the Metrics module of the Ozone Platform.  It builds OSGI bundles that are meant to be run in the 
